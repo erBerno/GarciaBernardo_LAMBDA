@@ -1,0 +1,15 @@
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.exe.config
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.exe
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.pdb
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.csproj.AssemblyReference.cache
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.exe
+C:\Users\usuariocc\source\repos\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.pdb
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.exe
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\obj\Debug\Garcia Bernardo_Lambda.pdb
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.exe.config
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.exe
+D:\Proyectos Progra III\Garcia Bernardo_Lambda\Garcia Bernardo_Lambda\bin\Debug\Garcia Bernardo_Lambda.pdb
